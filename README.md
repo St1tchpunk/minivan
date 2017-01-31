@@ -23,9 +23,11 @@ To Generate Firmware:
 
 Alternate: If you just want my layout then grab my current .hex file from https://github.com/St1tchpunk/minivan.  
 
+
 Flashing TMK Firmware .hex file to PCB:
 
 Follow instructions in 'Stage 2 - Flash Keyboard' section of https://thevankeyboards.com/pages/programming-guide
+
 
 ::::::::::
 
