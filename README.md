@@ -1,5 +1,6 @@
 # The MiniVan TMK Keyboard Build
-Files related to my minivan keyboard layout
+Files related to my minivan keyboard layout  
+
 Last Updated: Jan31 2017
 
 To view my layout:
