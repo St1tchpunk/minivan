@@ -25,8 +25,11 @@ Alternate: If you just want my layout then grab my current .hex file from https:
 
 
 Flashing TMK Firmware .hex file to PCB:
+
 Follow instructions in 'Stage 2 - Flash Keyboard' section of https://thevankeyboards.com/pages/programming-guide
 
 ::::::::::
+
 All of the thanks to Reddit user /u/evangs for creating and maintaining the awesome MiniVan Keyboard project and it's resources.
+
 ::::::::::
